@@ -1,11 +1,7 @@
-Expected Timeline 
-******************
-## Gant_Chart : ![gantt_chart](https://user-images.githubusercontent.com/52879681/122374125-edaaef00-cf83-11eb-8d57-a78bbaa1bd10.png)
 
 
 Feature descriptions
 *********************
-** GUI Design : Different Graphical Views would be compared and its feasibility to adopt in this project would also be tested. 
 
 
 Project Timelines
@@ -106,8 +102,25 @@ Team # | Team Name| Reg. # | Name| Reg. # | Name| Project Title|
 66|Transformer|2018331025|MD.Takrimul Hasan|2018331109|Ahmadul Hasan
 67|flip-flop|2016331013|Nasif Mahmud Nipom|2016331095|Ahmed Jubair
 68|
-69|
+69|Compiler|2018331116|Md. Sirazul Islam Sobuj|
 70|
+
+
+Expected Timeline 
+******************
+## Gant_Chart : ![gantt_chart](https://user-images.githubusercontent.com/52879681/122374125-edaaef00-cf83-11eb-8d57-a78bbaa1bd10.png)
+
+
+Report on Learning Pre-requisities
+--------------------------------
+
+
+
+SL | Learning Task | Description | Status | Comment | 
+--:|:--------------|:------------|:------:|---------|
+1  | Web Basicc of HTML, CSS, Javascript, JQuery| ![ ](https://img.shields.io/badge/HTML-Learned-green) ![ ](https://img.shields.io/badge/CSS-May%2029-red) ![ ](https://img.shields.io/badge/Javascript-June%2015-orange) | |
+
+
 
 Supervisors
 -----------
