@@ -1,5 +1,7 @@
 Expected Timeline 
 ******************
+## Gant_Chart : ![gantt_chart](https://user-images.githubusercontent.com/52879681/122374125-edaaef00-cf83-11eb-8d57-a78bbaa1bd10.png)
+
 
 Feature descriptions
 *********************
