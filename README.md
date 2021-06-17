@@ -1,3 +1,11 @@
+Expected Timeline 
+******************
+
+Feature descriptions
+*********************
+** GUI Design : Different Graphical Views would be compared and its feasibility to adopt in this project would also be tested. 
+
+
 Project Timelines
 =================
 
